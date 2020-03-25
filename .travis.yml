@@ -7,12 +7,12 @@ before_install:
 
 script:
   - docker run -e CI=true  leukanossearchspring/react-test yarn test
-
-after_success:
   - docker build -t leukanossearchspring/multi-client ./client
   - docker build -t leukanossearchspring/multi-nginx ./nginx
   - docker build -t leukanossearchspring/multi-server ./server
   - docker build -t leukanossearchspring/multi-worker ./worker
+
+after_success:
   - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_ID" --password-stdin
   - docker push leukanossearchspring/multi-client
   - docker push leukanossearchspring/multi-nginx

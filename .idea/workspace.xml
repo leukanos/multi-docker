@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca0e96f9-ba6b-4e79-a204-b76cc5e92de7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584437930345</updated>
       <workItem from="1584437932869" duration="20641000" />
-      <workItem from="1585042788093" duration="8767000" />
+      <workItem from="1585042788093" duration="10316000" />
     </task>
     <servers />
   </component>
@@ -77,6 +76,10 @@
       <screen x="0" y="23" width="2560" height="1360" />
     </state>
     <state x="1520" y="368" key="#Other_File_Types/0.23.2560.1360@0.23.2560.1360" timestamp="1584973794429" />
+    <state x="1655" y="541" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585130654677">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1655" y="541" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2560.1417@0.23.2560.1417" timestamp="1585130654677" />
     <state x="1338" y="236" key="SettingsEditor" timestamp="1585046898666">
       <screen x="0" y="23" width="2560" height="1360" />
     </state>
