@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca0e96f9-ba6b-4e79-a204-b76cc5e92de7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Dockerrun.aws.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
@@ -14,6 +15,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="multi-docker" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,13 +33,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/nginx" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -61,13 +66,32 @@
       <updated>1584437930345</updated>
       <workItem from="1584437932869" duration="20641000" />
       <workItem from="1585042788093" duration="10316000" />
+      <workItem from="1585750379506" duration="4554000" />
+      <workItem from="1586333444197" duration="1490000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="1520" y="369" key="#Inspections" timestamp="1585815310305">
+      <screen x="0" y="23" width="2560" height="1361" />
+    </state>
+    <state x="1520" y="369" key="#Inspections/0.23.2560.1361@0.23.2560.1361" timestamp="1585815310305" />
     <state x="1520" y="368" key="#JavaScript" timestamp="1584609723279">
       <screen x="0" y="23" width="2560" height="1360" />
     </state>
@@ -80,10 +104,16 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="1655" y="541" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2560.1417@0.23.2560.1417" timestamp="1585130654677" />
-    <state x="1338" y="236" key="SettingsEditor" timestamp="1585046898666">
-      <screen x="0" y="23" width="2560" height="1360" />
+    <state x="1532" y="376" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1585815094692">
+      <screen x="0" y="23" width="2560" height="1361" />
     </state>
+    <state x="1532" y="376" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.2560.1361@0.23.2560.1361" timestamp="1585815094692" />
+    <state x="1338" y="237" key="SettingsEditor" timestamp="1585815293632">
+      <screen x="0" y="23" width="2560" height="1361" />
+    </state>
+    <state x="1338" y="226" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1585750448086" />
     <state x="1338" y="236" key="SettingsEditor/0.23.2560.1360@0.23.2560.1360" timestamp="1585046898666" />
+    <state x="1338" y="237" key="SettingsEditor/0.23.2560.1361@0.23.2560.1361" timestamp="1585815293632" />
     <state x="1600" y="460" width="639" height="486" key="find.popup" timestamp="1585043000960">
       <screen x="0" y="23" width="2560" height="1360" />
     </state>
@@ -96,9 +126,10 @@
       <screen x="0" y="23" width="2560" height="1360" />
     </state>
     <state x="1585" y="331" key="run.anything.popup/0.23.2560.1360@0.23.2560.1360" timestamp="1585046970637" />
-    <state x="1585" y="334" width="670" height="676" key="search.everywhere.popup" timestamp="1585046968278">
-      <screen x="0" y="23" width="2560" height="1360" />
+    <state x="1585" y="334" width="670" height="677" key="search.everywhere.popup" timestamp="1585815168547">
+      <screen x="0" y="23" width="2560" height="1361" />
     </state>
     <state x="1585" y="334" width="670" height="676" key="search.everywhere.popup/0.23.2560.1360@0.23.2560.1360" timestamp="1585046968278" />
+    <state x="1585" y="334" width="670" height="677" key="search.everywhere.popup/0.23.2560.1361@0.23.2560.1361" timestamp="1585815168547" />
   </component>
 </project>

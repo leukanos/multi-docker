@@ -18,3 +18,16 @@ after_success:
   - docker push leukanossearchspring/multi-nginx
   - docker push leukanossearchspring/multi-server
   - docker push leukanossearchspring/multi-worker
+
+deploy:
+  edge: true
+  provider: elasticbeanstalk
+  region: eu-central-1
+  app: multi-docker
+  env: MultiDocker-env
+  bucket_name: elasticbeanstalk-eu-central-1-820805567935
+  bucket_path: docker-multi
+  on:
+    branch: master
+  access_key_id: $AWS_ACCESS_KEY
+  secret_access_key: $AWS_SECRET_KEY
