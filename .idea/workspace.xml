@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca0e96f9-ba6b-4e79-a204-b76cc5e92de7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dockerrun.aws.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerrun.aws.json" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerrun.aws.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -67,7 +67,7 @@
       <workItem from="1584437932869" duration="20641000" />
       <workItem from="1585042788093" duration="10316000" />
       <workItem from="1585750379506" duration="4554000" />
-      <workItem from="1586333444197" duration="1490000" />
+      <workItem from="1586333444197" duration="2439000" />
     </task>
     <servers />
   </component>
@@ -86,6 +86,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/client" />
+    </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
     <state x="1520" y="369" key="#Inspections" timestamp="1585815310305">
@@ -108,12 +113,12 @@
       <screen x="0" y="23" width="2560" height="1361" />
     </state>
     <state x="1532" y="376" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.2560.1361@0.23.2560.1361" timestamp="1585815094692" />
-    <state x="1338" y="237" key="SettingsEditor" timestamp="1585815293632">
+    <state x="1338" y="237" key="SettingsEditor" timestamp="1586335100066">
       <screen x="0" y="23" width="2560" height="1361" />
     </state>
     <state x="1338" y="226" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1585750448086" />
     <state x="1338" y="236" key="SettingsEditor/0.23.2560.1360@0.23.2560.1360" timestamp="1585046898666" />
-    <state x="1338" y="237" key="SettingsEditor/0.23.2560.1361@0.23.2560.1361" timestamp="1585815293632" />
+    <state x="1338" y="237" key="SettingsEditor/0.23.2560.1361@0.23.2560.1361" timestamp="1586335100066" />
     <state x="1600" y="460" width="639" height="486" key="find.popup" timestamp="1585043000960">
       <screen x="0" y="23" width="2560" height="1360" />
     </state>
